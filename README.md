@@ -1,2 +1,2 @@
 # work
-its a simple program
+They are  simple programs
